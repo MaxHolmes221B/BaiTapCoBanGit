@@ -11,3 +11,8 @@ git clone https://github.com/MaxHolmes221B/BaiTapCoBanGit
 git checkout -b ducdeptrai
 # Kiểm tra list branch
 git branch  
+# Push với main branch
+git add .
+git push origin main
+# Pull từ repo github nhánh main về repo local
+git pull origin main  
