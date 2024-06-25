@@ -9,6 +9,8 @@ git push -u origin main
 git clone https://github.com/MaxHolmes221B/BaiTapCoBanGit
 # Tạo branch
 git checkout -b ducdeptrai
+# Chuyển sang nhánh khác
+git switch ducdeptrai  
 # Kiểm tra list branch
 git branch  
 # Push với main branch
